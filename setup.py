@@ -5,7 +5,7 @@ token = os.environ.get("GITAUTH", "")
 
 setup(
     name="panoply_postgres",
-    version="2.3.8",
+    version="2.3.9",
     description="Panoply Data Source for Postgres",
     author="Panoply Dev Team",
     author_email="support@panoply.io",
